@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shamim-Raihan
+- 👀 I’m interested in Android Development, Coding, Programming.
+- 🌱 I’m currently learning Android development.
+- 📫 You can reach me by using my e-mail, linkedIn and twitter account.
