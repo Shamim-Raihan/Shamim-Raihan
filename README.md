@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shamim-Raihan
 - 👀 I’m interested in Mobile Application Development, Coding, Programming.
 - 🌱 I’m currently Flutter.
-- 📫 You can reach me by using my e-mail, linkedIn and twitter account.
+- 📫 You can reach me by Email, linkedIn and twitter account.
